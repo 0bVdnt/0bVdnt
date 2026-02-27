@@ -138,6 +138,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
+2. 💬 Commented on [#177960](https://github.com/llvm/llvm-project/pull/177960#issuecomment-3952141779) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+3. 💬 Commented on [#177960](https://github.com/llvm/llvm-project/pull/177960#issuecomment-3940199767) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+4. ⭐ Starred [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)<br>
+5. 💬 Commented on [#177960](https://github.com/llvm/llvm-project/pull/177960#issuecomment-3936310881) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
