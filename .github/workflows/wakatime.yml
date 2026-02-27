@@ -1,0 +1,30 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "true"
+          SHOW_TIME: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
+          # Display options
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 8
+          # Commit
+          COMMIT_MSG: "chore: update wakatime stats"
