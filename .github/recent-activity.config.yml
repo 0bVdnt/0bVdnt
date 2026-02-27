@@ -6,15 +6,9 @@ settings:
 
   disabled_events:
     - push
+    - comments
 
 messages:
-  starred_repo: "⭐ Starred {URL}"
-  forked_repo: "🍴 Forked {URL}"
-  created_repo: "🆕 Created {URL}"
-  opened_pr: "🔀 Opened PR {URL} in {REPO}"
-  merged_pr: "🎉 Merged PR {URL} in {REPO}"
-  opened_issue: "❗ Opened issue {URL} in {REPO}"
-  released: "🚀 Released {URL} in {REPO}"
-  added_member: "👥 Became collaborator on {URL}"
-  reviewed_pr: "👀 Reviewed {URL} in {REPO}"
-  changes_approved: "✅ Approved {URL} in {REPO}"
+  pr_opened: "💪 Opened PR {ID} in {REPO}"
+  pr_merged: "🎉 Merged PR {ID} in {REPO}"
+  new_release: "🚀 Released {ID} in {REPO}"
