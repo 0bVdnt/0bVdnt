@@ -95,39 +95,31 @@
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🛞 <a href="https://github.com/0bVdnt/chakravyuha">Chakravyuha</a></h3>
-<p>LLVM obfuscation engine for C/C++: Control Flow Flattening, Polymorphic String Encryption, Fake Code Injection, Telemetry Pass.</p>
-<sub>🔗 <a href="https://github.com/0bVdnt/chakra-web-service">Chakra-Web-Service</a> — OaaS (Obfuscation as a Service) frontend with ephemeral Docker containers, report generation &amp; CFG visualization · <a href="https://chakravyuha-obfuscator.github.io/">Live Demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<h3>📖 <a href="https://github.com/0bVdnt/obvcc">obvcc</a></h3>
-<p>Minimal C compiler from scratch: lexer, recursive descent parser, semantic analysis, x64 assembly codegen.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>💡 <a href="https://github.com/0bVdnt/raylib_cuda">Raylib-CUDA</a></h3>
-<p>Zero-copy GPU graphics middleware bridging Raylib and CUDA via DMA; 80%+ boilerplate reduction with a developer-centric C API.</p>
-</td>
-<td width="50%" valign="top">
-<h3>🌐 <a href="https://github.com/0bVdnt/http-c">HTTP-C</a></h3>
-<p>HTTP/1.1 server from scratch in C; POSIX sockets, custom parser, 0 memory leaks, atomic graceful shutdown.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>👾 <a href="https://github.com/0bVdnt/pixlgo">PixlGo</a></h3>
-<p>High FPS terminal media player: concurrent goroutine pipeline, 24-bit TrueColor half-block rendering.</p>
-</td>
-<td width="50%" valign="top">
-<h3>💽 <a href="https://github.com/0bVdnt/obv-os">obv-OS</a></h3>
-<p>Operating system from scratch. Kernel development in progress — bootloader, memory management, and beyond.</p>
-</td>
-</tr>
-</table>
+### 🛞 [Chakravyuha](https://github.com/0bVdnt/chakravyuha)
+LLVM obfuscation engine for C/C++: Control Flow Flattening, Polymorphic String Encryption, Fake Code Injection, Telemetry Pass.
+> 🔗 [Chakra-Web-Service](https://github.com/0bVdnt/chakra-web-service) — OaaS (Obfuscation as a Service) frontend with ephemeral Docker containers, report generation & CFG visualization · [Live Demo](https://chakravyuha-obfuscator.github.io/)
+
+
+### 📖 [obvcc](https://github.com/0bVdnt/obvcc)
+Minimal C compiler from scratch: lexer, recursive descent parser, semantic analysis, x64 assembly codegen.
+
+
+### 💡 [Raylib-CUDA](https://github.com/0bVdnt/raylib_cuda)
+Zero-copy GPU graphics middleware bridging Raylib and CUDA via DMA; 80%+ boilerplate reduction with a developer-centric C API.
+
+
+### 🌐 [HTTP-C](https://github.com/0bVdnt/http-c)
+HTTP/1.1 server from scratch in C; POSIX sockets, custom parser, 0 memory leaks, atomic graceful shutdown.
+
+
+### 👾 [PixlGo](https://github.com/0bVdnt/pixlgo)
+High FPS terminal media player: concurrent goroutine pipeline, 24-bit TrueColor half-block rendering.
+
+
+### 💽 [obv-OS](https://github.com/0bVdnt/obv-os)
+Operating system from scratch. Kernel development in progress — bootloader, memory management, and beyond.
+
+## Metrics
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
@@ -209,5 +201,5 @@ No activity tracked
 </details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0bVdnt&color=4af626&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=0bVdnt&color=4af626&style=pixel&label=Profile+Views" alt="Profile Views"/>
 </p>
