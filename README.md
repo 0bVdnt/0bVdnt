@@ -95,29 +95,25 @@
 
 ## Featured Projects
 
-### 🛞 [Chakravyuha](https://github.com/0bVdnt/chakravyuha)
-LLVM obfuscation engine for C/C++: Control Flow Flattening, Polymorphic String Encryption, Fake Code Injection, Telemetry Pass.
-> 🔗 [Chakra-Web-Service](https://github.com/0bVdnt/chakra-web-service) — OaaS (Obfuscation as a Service) frontend with ephemeral Docker containers, report generation & CFG visualization · [Live Demo](https://chakravyuha-obfuscator.github.io/)
+- 🛞 **[Chakravyuha](https://github.com/0bVdnt/chakravyuha)** — LLVM obfuscation engine for C/C++: Control Flow Flattening, Polymorphic String Encryption, Fake Code Injection, Telemetry Pass
+- 🎡 **[Chakra-Web-Service](https://github.com/0bVdnt/chakra-web-service)** — OaaS (Obfuscation as a Service) frontend with ephemeral Docker containers, report generation & CFG visualization · [Live Demo](https://chakravyuha-obfuscator.github.io/)
+- 📖 **[obvcc](https://github.com/0bVdnt/obvcc)** — Minimal C compiler from scratch: lexer, recursive descent parser, semantic analysis, x64 assembly codegen
+- 💡 **[Raylib-CUDA](https://github.com/0bVdnt/raylib_cuda)** — Zero-copy GPU graphics middleware bridging Raylib and CUDA via DMA; 80%+ boilerplate reduction with a developer-centric C API
+- 🌐 **[HTTP-C](https://github.com/0bVdnt/http-c)** — HTTP/1.1 server from scratch in C; POSIX sockets, custom parser, 0 memory leaks, atomic graceful shutdown
+- 👾 **[PixlGo](https://github.com/0bVdnt/pixlgo)** — High FPS terminal media player: concurrent goroutine pipeline, 24-bit TrueColor half-block rendering
+- 💽 **[obv-OS](https://github.com/0bVdnt/obv-os)** — Operating system from scratch. Kernel development in progress — bootloader, memory management, and beyond
 
+## Experiments
 
-### 📖 [obvcc](https://github.com/0bVdnt/obvcc)
-Minimal C compiler from scratch: lexer, recursive descent parser, semantic analysis, x64 assembly codegen.
-
-
-### 💡 [Raylib-CUDA](https://github.com/0bVdnt/raylib_cuda)
-Zero-copy GPU graphics middleware bridging Raylib and CUDA via DMA; 80%+ boilerplate reduction with a developer-centric C API.
-
-
-### 🌐 [HTTP-C](https://github.com/0bVdnt/http-c)
-HTTP/1.1 server from scratch in C; POSIX sockets, custom parser, 0 memory leaks, atomic graceful shutdown.
-
-
-### 👾 [PixlGo](https://github.com/0bVdnt/pixlgo)
-High FPS terminal media player: concurrent goroutine pipeline, 24-bit TrueColor half-block rendering.
-
-
-### 💽 [obv-OS](https://github.com/0bVdnt/obv-os)
-Operating system from scratch. Kernel development in progress — bootloader, memory management, and beyond.
+- 🍵 **[Jerm](https://github.com/0bVdnt/jerm)** — A Java based terminal emulator
+- 🧬 **[GameOfLife-WebAssembly](https://github.com/0bVdnt/game-of-life-webassembly)** — Conway's Game of Life built with C++ and compiled to WebAssembly
+- 🕹️ **[raylib-cuda-simulations](https://github.com/0bVdnt/raylib-cuda-simulations)** — A collection of GPU-accelerated simulations implemented using the [Raylib-CUDA](https://github.com/0bVdnt/raylib_cuda) middleware library
+- 🎄 **[advent-of-code-rust-cpp-template](https://github.com/0bVdnt/advent-of-code-rust-cpp-template)** — A template repository for solving Advent of Code problems in Rust and C++
+- 🧱 **[cuda-GL](https://github.com/0bVdnt/cuda-gl)** — GPU accelerated Graphics Components using CUDA and OpenGL
+- 👁️ **[mnist-hyperparameter-experiment](https://github.com/0bVdnt/mnist-hyperparameter-experiment)** — A hyperparameter tuning experiment for MNIST dataset using TensorFlow/Keras
+- 💰 **[PayWiz](https://github.com/0bVdnt/paywiz)** — A full-stack payments application demonstrating authentication, RESTful APIs, database transactions, and a modern React frontend
+- 📃 **[Blogify](https://github.com/0bVdnt/blogify)** — A monorepo of a serverless edge backend (Cloudflare Workers + Prisma) and a React frontend, built with TypeScript
+- 📒 **[NotesPlusPlus](https://github.com/0bVdnt/notesplusplus)** — A fast and responsive web app for note taking++
 
 ## Metrics
 
@@ -155,26 +151,6 @@ No activity tracked
 
 </details>
 
-## Experiments
-
-- 🍵 **[Jerm](https://github.com/0bVdnt/jerm)** - A Java based terminal emulator.
-
-- 🧬 **[GameOfLife-WebAssembly](https://github.com/0bVdnt/game-of-life-webassembly)** - Conway's Game of Life built with C++ and compiled to WebAssembly
-
-- 🕹️ **[raylib-cuda-simulations](https://github.com/0bVdnt/raylib-cuda-simulations)** - A collection of GPU-accelerated simulations implemented using the [Raylib-CUDA](https://github.com/0bVdnt/raylib_cuda) middleware library.
-
-- 🎄 **[advent-of-code-rust-cpp-template](https://github.com/0bVdnt/advent-of-code-rust-cpp-template)** - A template repository for solving Advent of Code problems in Rust and C++.
-
-- 🧱 **[cuda-GL](https://github.com/0bVdnt/cuda-gl)** - GPU accelerated Graphics Components using CUDA and OpenGL 
-
-- 👁️ **[mnist-hyperparameter-experiment](https://github.com/0bVdnt/mnist-hyperparameter-experiment)** - A hyperparameter tuning experiment for MNIST dataset using Tensorflow/Keras
-
-- 💰 **[PayWiz](https://github.com/0bVdnt/paywiz)** - A full-stack payments application demonstrating authentication, RESTful APIs, database transactions, and a modern React frontend.
-
-- 📃 **[Blogify](https://github.com/0bVdnt/blogify)** - A monorepo of a serverless edge backend (Cloudflare Workers + Prisma) and a react frontend, built with TypeScript
-
-- 📒 **[NotesPlusPlus](https://github.com/0bVdnt/notesplusplus)** - A fast and responsive web app for note taking++.
-
 ## Currently
 
 - 💽 Learning about operating systems through **[obv-OS](https://github.com/0bVdnt/obv-os)**.
@@ -203,3 +179,26 @@ No activity tracked
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0bVdnt&color=4af626&style=pixel&label=Profile+Views" alt="Profile Views"/>
 </p>
+
+<div align="center">
+<pre><code>
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⡟⡿⢯⡻⡝⢯⡝⡾⣽⣻⣟⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⠳⣏⠧⠹⡘⢣⠑⠎⠱⣈⠳⢡⠳⢭⣛⠷⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣝⣎⢣⠡⠌⣢⠧⠒⠃⠁⠈⠉⠉⠑⠓⠚⠦⣍⡞⡽⣞⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣝⠮⡜⣢⠕⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠄⡙⠲⣝⡺⡽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡹⢎⣳⠞⡡⠊⠀⠀⠀⣀⣤⣤⣶⣶⣤⣤⣀⡈⠂⠄⠙⠱⡌⠳⣹⢎⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣽⣟⣳⡝⡼⢁⠎⠀⡀⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⡄⠰⣄⠈⠓⢌⠛⢽⣣⡟⢿⠿⣿⣿⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡿⣽⠳⡼⢁⡞⠀⡜⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢸⢵⠀⠀⠁⠂⠤⣉⠉⠓⠒⠚⠦⠥⡈⠉⣙⢛⡿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡾⣽⣏⢳⢃⣞⠃⡼⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠁⢀⣀⠤⠐⢋⡰⣌⣾⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣮⢳⣿⠶⠁⠖⠃⠀⠁⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠟⠛⠛⠀⠀⠀⠀⢀⡤⠤⠐⠒⣉⠡⣄⠶⣭⣿⣽⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡿⠿⢉⡢⠝⠁⠀⠃⠀⠀⠀⠀⠀⠿⠃⠿⠿⠿⠛⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⣀⢤⣰⣲⣽⣾⡟⣾⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣟⡿⡚⠏⠁⠀⠐⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠂⣠⠀⣯⣗⣮⢿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⢯⡝⠠⠁⠀⠀⠠⠤⠀⠀⠀⠀⡀⠢⣄⣀⡀⠐⠤⡀⠀⠀⠀⢤⣄⣀⠤⣄⣤⢤⣖⡾⠋⢁⡼⠁⣸⡿⣞⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣷⣾⣵⣦⣶⣖⣳⣶⣝⣶⣯⣷⣽⣷⣾⣶⣽⣯⣶⠄⠈⠒⣤⣀⠉⠙⠛⠛⠋⠋⢁⣠⠔⠁⠀⢰⣿⣽⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡄⡀⡉⠛⠓⠶⠶⠒⠛⠋⠀⠀⢀⣼⣻⢷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣧⡵⣌⣒⢂⠀⣀⣀⣠⣤⣶⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣾⣷⣯⣿⣧⣿⣷⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+</code></pre>
+<sub><i>0bVdnt</i></sub>
+</div>
