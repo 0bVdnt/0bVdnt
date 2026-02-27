@@ -1,26 +1,20 @@
 settings:
   username: "0bVdnt"
-  commit_msg: "chore: update recent activity"
   max_lines: 5
   readme_file: "./README.md"
-  readme_placeholder: "activity"
+  commit_msg: "chore: update recent activity"
 
   disabled_events:
-    - comments
-    - wiki
-
-  url_text: "{REPO}"
+    - push
 
 messages:
-  added_member: "👥 Became a collaborator on {URL}"
-  changes_approved: "✅ Approved PR {URL} in {REPO}"
-  changes_requested: "🔄 Requested changes on {URL} in {REPO}"
-  commented: "💬 Commented on {URL} in {REPO}"
-  created_repo: "🆕 Created repository {URL}"
+  starred_repo: "⭐ Starred {URL}"
   forked_repo: "🍴 Forked {URL}"
+  created_repo: "🆕 Created {URL}"
+  opened_pr: "🔀 Opened PR {URL} in {REPO}"
   merged_pr: "🎉 Merged PR {URL} in {REPO}"
   opened_issue: "❗ Opened issue {URL} in {REPO}"
-  opened_pr: "🔀 Opened PR {URL} in {REPO}"
   released: "🚀 Released {URL} in {REPO}"
-  reviewed_pr: "👀 Reviewed PR {URL} in {REPO}"
-  starred_repo: "⭐ Starred {URL}"
+  added_member: "👥 Became collaborator on {URL}"
+  reviewed_pr: "👀 Reviewed {URL} in {REPO}"
+  changes_approved: "✅ Approved {URL} in {REPO}"
