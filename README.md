@@ -142,9 +142,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 26 February 2026
+From: 28 January 2026 - To: 27 February 2026
 
-No activity tracked
+Markdown      1 hr 40 mins          ██████████████▒░░░░░░░░░░   57.92 %
+YAML          44 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Other         18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Lua           4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+C++           2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+INI           2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
