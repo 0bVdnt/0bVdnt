@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
-2. ⭐ Starred [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)<br>
-3. ⭐ Starred [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)<br>
-4. ⭐ Starred [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite)<br>
-5. ❌ Closed PR [#177960](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+1. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)<br>
+2. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
+3. ⭐ Starred [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)<br>
+4. ⭐ Starred [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)<br>
+5. ⭐ Starred [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
