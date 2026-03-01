@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)<br>
-2. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
-3. ⭐ Starred [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)<br>
-4. ⭐ Starred [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)<br>
-5. ⭐ Starred [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite)<br>
+1. ⭐ Starred [zml/zml](https://github.com/zml/zml)<br>
+2. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)<br>
+3. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
+4. ⭐ Starred [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)<br>
+5. ⭐ Starred [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
