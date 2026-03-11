@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zml/zml](https://github.com/zml/zml)<br>
-2. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)<br>
-3. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
-4. ⭐ Starred [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)<br>
-5. ⭐ Starred [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal)<br>
+1. 💪 Opened PR [#2](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
+2. 💪 Opened PR [#1](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
+3. ⭐ Starred [zml/zml](https://github.com/zml/zml)<br>
+4. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)<br>
+5. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
