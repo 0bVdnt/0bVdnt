@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
-2. 💪 Opened PR [#1](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
-3. ⭐ Starred [zml/zml](https://github.com/zml/zml)<br>
-4. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)<br>
-5. ⭐ Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)<br>
+1. 💪 Opened PR [#186102](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+2. 💪 Opened PR [#2](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
+3. 💪 Opened PR [#1](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
+4. ⭐ Starred [zml/zml](https://github.com/zml/zml)<br>
+5. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
