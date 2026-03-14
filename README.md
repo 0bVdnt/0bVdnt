@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0)<br>
-2. 💪 Opened PR [#186259](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-3. ❌ Closed PR [#186102](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-4. 💪 Opened PR [#186102](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-5. 💪 Opened PR [#2](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
+1. ⭐ Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)<br>
+2. ⭐ Starred [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0)<br>
+3. 💪 Opened PR [#186259](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+4. ❌ Closed PR [#186102](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+5. 💪 Opened PR [#186102](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
