@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lanl/benchmarks](https://github.com/lanl/benchmarks)<br>
-2. ⭐ Starred [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe)<br>
-3. 💪 Opened PR [#4](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
-4. ⭐ Starred [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway)<br>
-5. 💪 Opened PR [#3](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
+1. 🤝 Became collaborator on [omanandswami2005/omni-the-real-jarvis](https://github.com/omanandswami2005/omni-the-real-jarvis)<br>
+2. ⭐ Starred [lanl/benchmarks](https://github.com/lanl/benchmarks)<br>
+3. ⭐ Starred [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe)<br>
+4. 💪 Opened PR [#4](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
+5. ⭐ Starred [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
