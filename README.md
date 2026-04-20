@@ -130,7 +130,6 @@
 2. 🤝 Became collaborator on [omanandswami2005/omni-the-real-jarvis](https://github.com/omanandswami2005/omni-the-real-jarvis)<br>
 3. ⭐ Starred [lanl/benchmarks](https://github.com/lanl/benchmarks)<br>
 4. ⭐ Starred [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe)<br>
-5. 💪 Opened PR [#4](undefined) in [0bVdnt/blogs](https://github.com/0bVdnt/blogs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
