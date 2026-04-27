@@ -141,7 +141,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 24 April 2026
+From: 26 March 2026 - To: 25 April 2026
 
 Python                     9 hrs 42 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
 C                          5 hrs 22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
