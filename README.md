@@ -126,10 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gpuasm/autosass](https://github.com/gpuasm/autosass)<br>
-2. ⭐ Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)<br>
-3. ⭐ Starred [lanl/benchmarks](https://github.com/lanl/benchmarks)<br>
-4. ⭐ Starred [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe)<br>
+1. ⭐ Starred [TheDan64/inkwell](https://github.com/TheDan64/inkwell)<br>
+2. ⭐ Starred [gpuasm/autosass](https://github.com/gpuasm/autosass)<br>
+3. ⭐ Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)<br>
+4. ⭐ Starred [lanl/benchmarks](https://github.com/lanl/benchmarks)<br>
+5. ⭐ Starred [reframe-hpc/reframe](https://github.com/reframe-hpc/reframe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
