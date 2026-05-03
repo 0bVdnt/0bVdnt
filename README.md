@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [superplanehq/superplane](https://github.com/superplanehq/superplane)<br>
-2. ⭐ Starred [TheDan64/inkwell](https://github.com/TheDan64/inkwell)<br>
-3. ⭐ Starred [gpuasm/autosass](https://github.com/gpuasm/autosass)<br>
-4. ⭐ Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)<br>
-5. ⭐ Starred [lanl/benchmarks](https://github.com/lanl/benchmarks)<br>
+1. ⭐ Starred [DLR-AMR/t8code](https://github.com/DLR-AMR/t8code)<br>
+2. ⭐ Starred [CEED/libCEED](https://github.com/CEED/libCEED)<br>
+3. ⭐ Starred [AdaptiveCpp/AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp)<br>
+4. ⭐ Starred [visit-dav/visit](https://github.com/visit-dav/visit)<br>
+5. ⭐ Starred [superplanehq/superplane](https://github.com/superplanehq/superplane)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
