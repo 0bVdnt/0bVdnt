@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DLR-AMR/t8code](https://github.com/DLR-AMR/t8code)<br>
-2. ⭐ Starred [CEED/libCEED](https://github.com/CEED/libCEED)<br>
-3. ⭐ Starred [AdaptiveCpp/AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp)<br>
-4. ⭐ Starred [visit-dav/visit](https://github.com/visit-dav/visit)<br>
-5. ⭐ Starred [superplanehq/superplane](https://github.com/superplanehq/superplane)<br>
+1. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)<br>
+2. ⭐ Starred [DLR-AMR/t8code](https://github.com/DLR-AMR/t8code)<br>
+3. ⭐ Starred [CEED/libCEED](https://github.com/CEED/libCEED)<br>
+4. ⭐ Starred [AdaptiveCpp/AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp)<br>
+5. ⭐ Starred [visit-dav/visit](https://github.com/visit-dav/visit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
