@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [onnx/onnx](https://github.com/onnx/onnx)<br>
-2. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)<br>
-3. ⭐ Starred [DLR-AMR/t8code](https://github.com/DLR-AMR/t8code)<br>
-4. ⭐ Starred [CEED/libCEED](https://github.com/CEED/libCEED)<br>
-5. ⭐ Starred [AdaptiveCpp/AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp)<br>
+1. ⭐ Starred [POV-Ray/povray](https://github.com/POV-Ray/povray)<br>
+2. ⭐ Starred [PiSugar/whisplay-ai-chatbot](https://github.com/PiSugar/whisplay-ai-chatbot)<br>
+3. ⭐ Starred [onnx/onnx](https://github.com/onnx/onnx)<br>
+4. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)<br>
+5. ⭐ Starred [DLR-AMR/t8code](https://github.com/DLR-AMR/t8code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
