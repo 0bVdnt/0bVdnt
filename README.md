@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
-2. ⭐ Starred [POV-Ray/povray](https://github.com/POV-Ray/povray)<br>
-3. ⭐ Starred [PiSugar/whisplay-ai-chatbot](https://github.com/PiSugar/whisplay-ai-chatbot)<br>
-4. ⭐ Starred [onnx/onnx](https://github.com/onnx/onnx)<br>
-5. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)<br>
+1. ⭐ Starred [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang)<br>
+2. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
+3. ⭐ Starred [POV-Ray/povray](https://github.com/POV-Ray/povray)<br>
+4. ⭐ Starred [PiSugar/whisplay-ai-chatbot](https://github.com/PiSugar/whisplay-ai-chatbot)<br>
+5. ⭐ Starred [onnx/onnx](https://github.com/onnx/onnx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
