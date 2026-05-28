@@ -142,7 +142,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2026 - To: 25 May 2026
+From: 26 April 2026 - To: 26 May 2026
 
 C++            8 hrs 4 mins          ███████▓░░░░░░░░░░░░░░░░░   31.03 %
 C              2 hrs 56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
