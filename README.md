@@ -126,11 +126,11 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fmtlib/fmt](https://github.com/fmtlib/fmt)<br>
-2. ⭐ Starred [chaos-polymtl/lethe](https://github.com/chaos-polymtl/lethe)<br>
-3. ⭐ Starred [llnl/camp](https://github.com/llnl/camp)<br>
-4. ⭐ Starred [ceph/ceph](https://github.com/ceph/ceph)<br>
-5. 💪 Opened PR [#2326](undefined) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)<br>
+1. ⭐ Starred [51ddhesh/exchange-bench](https://github.com/51ddhesh/exchange-bench)<br>
+2. ⭐ Starred [fmtlib/fmt](https://github.com/fmtlib/fmt)<br>
+3. ⭐ Starred [chaos-polymtl/lethe](https://github.com/chaos-polymtl/lethe)<br>
+4. ⭐ Starred [llnl/camp](https://github.com/llnl/camp)<br>
+5. ⭐ Starred [ceph/ceph](https://github.com/ceph/ceph)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
