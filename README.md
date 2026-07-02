@@ -130,7 +130,6 @@
 2. ⭐ Starred [fmtlib/fmt](https://github.com/fmtlib/fmt)<br>
 3. ⭐ Starred [chaos-polymtl/lethe](https://github.com/chaos-polymtl/lethe)<br>
 4. ⭐ Starred [llnl/camp](https://github.com/llnl/camp)<br>
-5. ⭐ Starred [ceph/ceph](https://github.com/ceph/ceph)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
