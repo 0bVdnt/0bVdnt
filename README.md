@@ -126,8 +126,9 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#208689](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-2. ⭐ Starred [51ddhesh/exchange-bench](https://github.com/51ddhesh/exchange-bench)<br>
+1. ⭐ Starred [reussir-lang/reussir](https://github.com/reussir-lang/reussir)<br>
+2. 💪 Opened PR [#208689](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+3. ⭐ Starred [51ddhesh/exchange-bench](https://github.com/51ddhesh/exchange-bench)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
