@@ -126,8 +126,9 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [reussir-lang/reussir](https://github.com/reussir-lang/reussir)<br>
-2. 💪 Opened PR [#208689](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+1. ⭐ Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)<br>
+2. ⭐ Starred [reussir-lang/reussir](https://github.com/reussir-lang/reussir)<br>
+3. 💪 Opened PR [#208689](undefined) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
