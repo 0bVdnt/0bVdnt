@@ -129,7 +129,6 @@
 1. ⭐ Starred [luminal-ai/luminal](https://github.com/luminal-ai/luminal)<br>
 2. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)<br>
 3. ⭐ Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)<br>
-4. ⭐ Starred [reussir-lang/reussir](https://github.com/reussir-lang/reussir)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
