@@ -140,7 +140,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2026 - To: 15 August 2026
+From: 17 July 2026 - To: 16 August 2026
 
 C          1 hr 5 mins           ████████████░░░░░░░░░░░░░   47.94 %
 C++        43 mins               ████████░░░░░░░░░░░░░░░░░   31.66 %
