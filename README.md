@@ -126,9 +126,10 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [luminal-ai/luminal](https://github.com/luminal-ai/luminal)<br>
-2. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)<br>
-3. ⭐ Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)<br>
+1. ⭐ Starred [dimforge/nexus](https://github.com/dimforge/nexus)<br>
+2. ⭐ Starred [luminal-ai/luminal](https://github.com/luminal-ai/luminal)<br>
+3. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)<br>
+4. ⭐ Starred [f3d-app/f3d](https://github.com/f3d-app/f3d)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
