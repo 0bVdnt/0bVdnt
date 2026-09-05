@@ -128,7 +128,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#521](https://github.com/ocaml-community/utop/issues/521) in [ocaml-community/utop](https://github.com/ocaml-community/utop)<br>
 2. ⭐ Starred [dimforge/nexus](https://github.com/dimforge/nexus)<br>
-3. ⭐ Starred [luminal-ai/luminal](https://github.com/luminal-ai/luminal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
