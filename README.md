@@ -139,7 +139,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 12 September 2026
+From: 14 August 2026 - To: 13 September 2026
 
 Other      1 hr 5 mins           █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
 Lua        55 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
