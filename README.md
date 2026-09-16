@@ -126,9 +126,10 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Zaneham/Booth](https://github.com/Zaneham/Booth)<br>
-2. ❗️ Opened issue [#521](https://github.com/ocaml-community/utop/issues/521) in [ocaml-community/utop](https://github.com/ocaml-community/utop)<br>
-3. ⭐ Starred [dimforge/nexus](https://github.com/dimforge/nexus)<br>
+1. ⭐ Starred [gem5/gem5](https://github.com/gem5/gem5)<br>
+2. ⭐ Starred [Zaneham/Booth](https://github.com/Zaneham/Booth)<br>
+3. ❗️ Opened issue [#521](https://github.com/ocaml-community/utop/issues/521) in [ocaml-community/utop](https://github.com/ocaml-community/utop)<br>
+4. ⭐ Starred [dimforge/nexus](https://github.com/dimforge/nexus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
