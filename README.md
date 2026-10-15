@@ -128,7 +128,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [computer-go-brrrr/cu2hip](https://github.com/computer-go-brrrr/cu2hip)<br>
 2. ⭐ Starred [gem5/gem5](https://github.com/gem5/gem5)<br>
-3. ⭐ Starred [Zaneham/Booth](https://github.com/Zaneham/Booth)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
