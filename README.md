@@ -126,7 +126,6 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [computer-go-brrrr/cu2hip](https://github.com/computer-go-brrrr/cu2hip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
