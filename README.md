@@ -126,6 +126,8 @@
 <br>
 
 <!--RECENT_ACTIVITY:start-->
+1. 💪 Opened PR [#35](undefined) in [BhagyashreeEmekarCSBS/genAI](https://github.com/BhagyashreeEmekarCSBS/genAI)<br>
+2. 🔱 Forked [0bVdnt/GenAI-lab-exam](https://github.com/0bVdnt/GenAI-lab-exam) from [BhagyashreeEmekarCSBS/genAI](https://github.com/BhagyashreeEmekarCSBS/genAI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
