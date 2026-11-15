@@ -139,19 +139,23 @@
 <br>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```txt
-From: 30 September 2026 - To: 30 October 2026
+```text
+💬 Programming Languages: 
+C++                      35 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.91 % 
+Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.09 % 
 
-Other          2 hrs 18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-Markdown       2 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-Rust           1 hr 49 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-C              1 hr 37 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-OCaml          1 hr 23 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-C++            46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-TOML           16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Objective-C    5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+🔥 Editors: 
+Neovim                   35 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🐱‍💻 Projects: 
+kaleidoscope-language    35 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+💻 Operating System: 
+Linux                    35 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
+
 
 <!--END_SECTION:waka-->
 
